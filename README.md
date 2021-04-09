@@ -1,5 +1,7 @@
 ## `Promise.delegate`
 
+![Stage 1](https://badges.aleen42.com/src/tc39_2.svg)
+
 *API support for distributed promise pipelining.*
 
    * Mark S. Miller @erights, Agoric
